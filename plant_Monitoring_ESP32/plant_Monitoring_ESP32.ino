@@ -17,7 +17,7 @@ char pass[] = "**********";
 BlynkTimer timer;
 
 #define soil 13
-#define waterPump 34
+#define waterPump 12
 WidgetLED pump(V1);
 
 float soilLevel, soilR;
